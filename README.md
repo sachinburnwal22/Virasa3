@@ -1,5 +1,5 @@
 # 🧓🏼✨ Virasa – Preserving the Legacy of Our Elders
-[Live Demo](https://virasa3.vercel.app/)
+[![Live Site](https://img.shields.io/badge/Live_Site-Visit-green?style=for-the-badge)](https://virasa3.vercel.app/)
 
 > "Every wrinkle tells a story. Every hand, a heritage."
 
